@@ -12,8 +12,8 @@ android {
         applicationId "com.digital.compass.maps.digitalcompass"
         minSdkVersion 24
         targetSdkVersion 30
-        versionCode 109
-        versionName "1.0.9"
+        versionCode 100
+        versionName "1.0.0"
         multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
@@ -73,8 +73,6 @@ dependencies {
     implementation 'com.google.android.gms:play-services-ads:20.2.0'
 
     implementation 'com.github.dktlib:AdmobUtilsLibrary:4.5.9.3'
-    //multidex
-    //implementation "androidx.multidex:multidex:2.0.1"
     //indicator
     implementation 'me.relex:circleindicator:2.1.6'
 
@@ -88,12 +86,6 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:22.0.0'
     //implementation 'com.google.firebase:firebase-crashlytics:18.1.0'
     implementation 'com.google.firebase:firebase-config:21.0.1'
-
-//    implementation 'com.github.dktlib:AdmobUtilsLibrary:23443f3202'
-//    //multidex
-//    implementation "androidx.multidex:multidex:2.0.1"
-//    //Shimmer
-//    implementation 'com.facebook.shimmer:shimmer:0.5.0'
 
     // lib ads
     implementation 'com.github.quangchienictu:AmazicAdsLibrary:1.0.7'
