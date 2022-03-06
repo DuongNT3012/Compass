@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252151313976",
+    "project_id": "compass-7b801",
+    "storage_bucket": "compass-7b801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252151313976:android:69ba0bd97b41b7d42618cd",
+        "android_client_info": {
+          "package_name": "com.digital.compass.maps.digitalcompass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252151313976-e9d1rmcunt06thrhjg07h0pqtdoj076k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Kxny5KsUIIn_MvDULmBoDAq5CbclmS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252151313976-e9d1rmcunt06thrhjg07h0pqtdoj076k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

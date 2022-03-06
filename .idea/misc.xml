@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/drawable/ic_info.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/drawable/ic_location_unselect.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/drawable/ic_setting_unselect.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/drawable/ic_sleep_direction.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/drawable/ic_theme_unselect.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/layout/activity_info.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/layout/activity_location_info.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/layout/activity_main_compass.xml" value="0.16" />
+        <entry key="..\:/Users/Admin/Desktop/CompassApp/app/src/main/res/layout/activity_sleep_direction.xml" value="0.20018115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

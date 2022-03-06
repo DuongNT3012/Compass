@@ -1,0 +1,4 @@
+rootProject.name = "CompassDemo"
+include ':app'
+
+
